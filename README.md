@@ -26,11 +26,4 @@ npx expo start
 Scan the QR code with the **Expo Go** app (iOS/Android), or press `i` / `a` in the
 terminal for a simulator, or `w` for web.
 
-## Known simplifications
 
-- Menu item photos and the profile avatar photo are placeholder initials/emoji, not
-  real images — swap in `Image` components with real URLs or local assets when ready.
-- "Change"/"Remove" avatar buttons and the search icon are non-functional stubs (the
-  screenshots didn't specify their behavior).
-- Category pills (Starters/Mains/...) don't filter the list yet — say the word if you
-  want that wired up.
